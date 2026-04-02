@@ -9,7 +9,7 @@ Social Connectivity: Floating social media icons (Facebook, Twitter, Instagram) 
 HTML
 CSS
 
-🌐 Live Demo: 
+🌐 Live Demo: https://dattaparomita.github.io/Starbucks_Clone/
 
 # Screenshot:
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/599336e9-086a-4c29-8e43-ea5d49bddb76" />
